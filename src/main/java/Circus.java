@@ -26,6 +26,7 @@ public class Circus {
                 System.out.println("Adding item value: " + e.getValue());
 
             }
+            //yeet
         }
         return total;
     }
